@@ -4,3 +4,4 @@ function even_or_odd(number) {
      else(number % 2>0)
         return "Odd";
      }
+

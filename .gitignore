@@ -110,7 +110,7 @@ ipch/
 # Visual Studio profiler
 *.psess
 *.vsp
-*.vspx
+*.vsrem
 *.sap
 
 # Visual Studio Trace Files
@@ -209,9 +209,9 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
-*.appx
-*.appxbundle
-*.appxupload
+*.aprem
+*.aprembundle
+*.apremupload
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
