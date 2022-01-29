@@ -6,3 +6,4 @@ function squareDigits(num){
     }
     return Number(results.join(''));    // turn the array into a string and then into a number
   }
+  
