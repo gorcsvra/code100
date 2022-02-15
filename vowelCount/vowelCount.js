@@ -16,10 +16,9 @@ function getCount(str) {
   //Végigmegyünk a karakterláncunk minden egyes karakterén for ciklussal.
    //Ha a karakter magánhangzó, akkor növeljük a vowelsCountváltozónkat.
 
-
-
-
-
-    
+   
+   
+  
+  
 
   
